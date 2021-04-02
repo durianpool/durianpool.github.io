@@ -647,7 +647,9 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("../../images/overlay.png");
-			background-color: rgba(19, 21, 25, 0.5);
+            
+            /* edit me for blurring */
+			background-color: rgba(#####);
 			border-radius: 4px;
 			content: '';
 			display: block;
@@ -688,11 +690,13 @@ input, select, textarea {
 			display: block;
 			margin: 0 0 2rem 0;
 			width: 100%;
+        
 		}
-
 			.image.fit img {
-				width: 100%;
-			}
+				margin: 1px auto 0px;
+                width: 97%;
+                border-radius: 50%;
+        }
 
 		.image.main {
 			display: block;
