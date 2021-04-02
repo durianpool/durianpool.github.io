@@ -691,7 +691,7 @@ input, select, textarea {
         
 		}
 			.image.fit img {
-				margin: 1px auto 0px;
+				margin: 1.1px auto 0px;
              			width: 97%;
              			border-radius: 50%;
       			}
