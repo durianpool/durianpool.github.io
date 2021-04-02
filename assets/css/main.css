@@ -647,8 +647,6 @@ input, select, textarea {
 		.image:before {
 			pointer-events: none;
 			background-image: url("../../images/overlay.png");
-            
-            /* edit me for blurring */
 			background-color: rgba(#####);
 			border-radius: 4px;
 			content: '';
