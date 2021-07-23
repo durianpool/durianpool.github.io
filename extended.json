@@ -1,7 +1,7 @@
 {
    "how-to-implement":"in your meta.json - define *extended* with url to this (json) file - https://raw.githubusercontent.com/cardanians/adapools.org/master/example-meta.json",
    "info":{
-      "url_png_icon_64x64":"https://github.com/durianpool/durianpool.github.io/blob/main/assets/img/favicon/apple-icon-60x60.png",
+      "url_png_icon_64x64":"https://github.com/durianpool/durianpool.github.io/blob/95354b4f6d168d1153d4f32a51c81187b396eb86/assets/img/favicon/foradapool.png",
       "url_png_logo":"https://github.com/durianpool/durianpool.github.io/blob/main/assets/img/favicon/apple-icon-60x60.png",
       "location":"Kuala Lumpur, Malaysia",
       "social":{
